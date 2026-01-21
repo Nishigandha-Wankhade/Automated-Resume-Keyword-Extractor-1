@@ -31,7 +31,8 @@ This project aims to automate the first screening step by identifying key terms 
 
 ## Architecture
 
-![ChatGPT Image Jan 18, 2026, 02_51_00 PM.png](attachment:b178cc54-b7ed-4489-8a9e-b2f90b3438e1:ChatGPT_Image_Jan_18_2026_02_51_00_PM.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jan 18, 2026, 02_51_00 PM" src="https://github.com/user-attachments/assets/ea64c3e5-890e-48bb-b2b5-0be29ea3313f" />
+
 
 ## Solution Overview
 
