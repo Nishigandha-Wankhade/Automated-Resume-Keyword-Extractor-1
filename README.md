@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Jan 18, 2026, 02_56_44 PM" src="https://github.com/user-attachments/assets/6893b06d-7773-43be-940a-1226239dc081" />
+
+
 ### About project
 
 **Category:** NLP | Text Analytics | HR Tech
